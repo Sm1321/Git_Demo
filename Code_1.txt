@@ -1,0 +1,7 @@
+here is ,I am writing the git commands
+
+1.Make the change in Project 
+- git add .
+- git push commit -m"write the chenges"
+- Push the changes to cloud
+- git push origin main  ,where origin is the REPO URL and main is the Branch is NAME
