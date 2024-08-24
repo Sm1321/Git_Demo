@@ -5,3 +5,20 @@ here is ,I am writing the git commands
 - git push commit -m"write the chenges"
 - Push the changes to cloud
 - git push origin main  ,where origin is the REPO URL and main is the Branch is NAME
+
+
+
+
+---------------------------------------------------------------------------------------------
+1.Create a repo on the GitHub Account
+2.Copied that repo on local 
+   git clone <URL> origin
+3.Make the changes to your project
+
+4. Run git commands
+  git add .
+  git commit -m "------------------"
+
+5.Push the changes back to cloud
+
+  git push origin main 
